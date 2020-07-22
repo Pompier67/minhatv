@@ -1,0 +1,1180 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Example">
+    <display-name lang="en">Example</display-name>
+  </channel>
+  <channel id="Canal 26">
+    <display-name lang="es">Canal 26</display-name>
+    <url>http://www.telered.com.ar</url>
+  </channel>
+  <channel id="Encuentro">
+    <display-name lang="es">Encuentro</display-name>
+    <url>http://www.buscadorcablevision.com.ar</url>
+  </channel>
+  <channel id="Argentinísima Satelital">
+    <display-name lang="es">Argentinísima Satelital</display-name>
+    <url>http://www.telered.com.ar</url>
+  </channel>
+  <channel id="TV PUBLICA HD">
+    <display-name lang="es">TV PUBLICA HD</display-name>
+    <url>http://www.telered.com.ar</url>
+  </channel>
+  <channel id="CANAL CLARO">
+    <display-name lang="es">CANAL CLARO</display-name>
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="CANAL CLARO HD">
+    <display-name lang="es">CANAL CLARO HD</display-name>
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="CANAL UNO">
+    <display-name lang="es">CANAL UNO</display-name>
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="CANAL CARACOL">
+    <display-name lang="es">CANAL CARACOL</display-name>
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="DIA TV">
+    <display-name lang="es">DIA TV</display-name>
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="CANAL RCN">
+    <display-name lang="es">CANAL RCN</display-name>
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="EL TIEMPO TELEVISION">
+    <display-name lang="es">EL TIEMPO TELEVISION</display-name>
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="VMAS-TV">
+    <display-name lang="es">VMAS-TV</display-name>
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="CITY TV">
+    <display-name lang="es">CITY TV</display-name>
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="CANAL INSTITUCIONAL">
+    <display-name lang="es">CANAL INSTITUCIONAL</display-name>
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="CANAL CAPITAL">
+    <display-name lang="es">CANAL CAPITAL</display-name>
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="TELEANTIOQUIA">
+    <display-name lang="es">TELEANTIOQUIA</display-name>
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="TELECARIBE">
+    <display-name lang="es">TELECARIBE</display-name>
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="TELEPACIFICO">
+    <display-name lang="es">TELEPACIFICO</display-name>
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="CANAL 13">
+    <display-name lang="es">CANAL 13</display-name>
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="TRO">
+    <display-name lang="es">TRO</display-name>
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="TELECAFE">
+    <display-name lang="es">TELECAFE</display-name>
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="CANAL DEL CONGRESO">
+    <display-name lang="es">CANAL DEL CONGRESO</display-name>
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="COSMOVISION">
+    <display-name lang="es">COSMOVISION</display-name>
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="ZOOM TV">
+    <display-name lang="es">ZOOM TV</display-name>
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="SENAL COLOMBIA">
+    <display-name lang="es">SENAL COLOMBIA</display-name>
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="DW Deutsch">
+    <display-name lang="en">DW Deutsch</display-name>
+    <url>http://www.dw.com</url>
+  </channel>
+  <channel id="DW Deutsch Plus">
+    <display-name lang="en">DW Deutsch Plus</display-name>
+    <url>http://www.dw.com</url>
+  </channel>
+  <channel id="DW English">
+    <display-name lang="en">DW English</display-name>
+    <url>http://www.dw.com</url>
+  </channel>
+  <channel id="DW Espanol">
+    <display-name lang="en">DW Espanol</display-name>
+    <url>http://www.dw.com</url>
+  </channel>
+  <channel id="DW Arabic">
+    <display-name lang="en">DW Arabic</display-name>
+    <url>http://www.dw.com</url>
+  </channel>
+  <channel id="NHK総合1・福井">
+    <display-name lang="ja">NHK総合1・福井</display-name>
+    <url>http://www.eonet.jp</url>
+  </channel>
+  <channel id="NHK総合2・福井">
+    <display-name lang="ja">NHK総合2・福井</display-name>
+    <url>http://www.eonet.jp</url>
+  </channel>
+  <channel id="NHKEテレ1福井">
+    <display-name lang="ja">NHKEテレ1福井</display-name>
+    <url>http://www.eonet.jp</url>
+  </channel>
+  <channel id="NHKEテレ2福井">
+    <display-name lang="ja">NHKEテレ2福井</display-name>
+    <url>http://www.eonet.jp</url>
+  </channel>
+  <channel id="NHKEテレ3福井">
+    <display-name lang="ja">NHKEテレ3福井</display-name>
+    <url>http://www.eonet.jp</url>
+  </channel>
+  <channel id="Global TV">
+    <display-name lang="es">Global TV</display-name>
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="TV Perú">
+    <display-name lang="es">TV Perú</display-name>
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="rtp-1">
+    <display-name lang="pt">rtp-1</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="GALICIA TV">
+    <display-name lang="es">GALICIA TV</display-name>
+    <url>http://www.montecable.com.EK</url>
+  </channel>
+  <channel id="CANAL VASCO">
+    <display-name lang="es">CANAL VASCO</display-name>
+    <url>http://www.montecable.com.EK</url>
+  </channel>
+  <channel id="Monte Carlo TV">
+    <display-name lang="es">Monte Carlo TV</display-name>
+    <url>http://www.http://tv.vera.com.uy</url>
+  </channel>
+  <channel id="Canal 12 Melo">
+    <display-name lang="es">Canal 12 Melo</display-name>
+    <url>http://www.http://tv.vera.com.uy</url>
+  </channel>
+  <channel id="TV Justiça">
+    <display-name lang="pt">TV Justiça</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="TV Senado">
+    <display-name lang="pt">TV Senado</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="TV Câmara">
+    <display-name lang="pt">TV Câmara</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="TV Escola">
+    <display-name lang="pt">TV Escola</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="TV Brasil">
+    <display-name lang="pt">TV Brasil</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="NBR">
+    <display-name lang="pt">NBR</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="IDEAL TV">
+    <display-name lang="pt">IDEAL TV</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="RIT">
+    <display-name lang="pt">RIT</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Rede Brasil">
+    <display-name lang="pt">Rede Brasil</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Record News">
+    <display-name lang="pt">Record News</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Rede CNT">
+    <display-name lang="pt">Rede CNT</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="RBI TV">
+    <display-name lang="pt">RBI TV</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Rede Vida">
+    <display-name lang="pt">Rede Vida</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Aparecida">
+    <display-name lang="pt">Aparecida</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Canção Nova">
+    <display-name lang="pt">Canção Nova</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Rede TV">
+    <display-name lang="pt">Rede TV</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="RECORD">
+    <display-name lang="pt">RECORD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="BAND">
+    <display-name lang="pt">BAND</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="SBT">
+    <display-name lang="pt">SBT</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Globo">
+    <display-name lang="pt">Globo</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="TV Cultura">
+    <display-name lang="pt">TV Cultura</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Polishop">
+    <display-name lang="pt">Polishop</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="OFF">
+    <display-name lang="pt">OFF</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Sportv 3">
+    <display-name lang="pt">Sportv 3</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Sportv 2">
+    <display-name lang="pt">Sportv 2</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="SporTV">
+    <display-name lang="pt">SporTV</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="GloboNews">
+    <display-name lang="pt">GloboNews</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="GNT">
+    <display-name lang="pt">GNT</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Multishow">
+    <display-name lang="pt">Multishow</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Canal Viva">
+    <display-name lang="pt">Canal Viva</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="+ GLOBOSAT">
+    <display-name lang="pt">+ GLOBOSAT</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="E!">
+    <display-name lang="pt">E!</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Fox Life">
+    <display-name lang="pt">Fox Life</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="TLC">
+    <display-name lang="pt">TLC</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Arte 1">
+    <display-name lang="pt">Arte 1</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Discovery Home &amp; Health">
+    <display-name lang="pt">Discovery Home &amp; Health</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Curta!">
+    <display-name lang="pt">Curta!</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="TruTV">
+    <display-name lang="pt">TruTV</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="WooHoo">
+    <display-name lang="pt">WooHoo</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="ESPN Brasil">
+    <display-name lang="pt">ESPN Brasil</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="ESPN">
+    <display-name lang="pt">ESPN</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="ESPN +">
+    <display-name lang="pt">ESPN +</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Fox Sports">
+    <display-name lang="pt">Fox Sports</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Fox Sports 2">
+    <display-name lang="pt">Fox Sports 2</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Band Sports">
+    <display-name lang="pt">Band Sports</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Band News">
+    <display-name lang="pt">Band News</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="National Geographic">
+    <display-name lang="pt">National Geographic</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Discovery Channel">
+    <display-name lang="pt">Discovery Channel</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Animal Planet">
+    <display-name lang="pt">Animal Planet</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="The History Channel">
+    <display-name lang="pt">The History Channel</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Discovery Turbo">
+    <display-name lang="pt">Discovery Turbo</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Futura">
+    <display-name lang="pt">Futura</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="H2">
+    <display-name lang="pt">H2</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Discovery Kids">
+    <display-name lang="pt">Discovery Kids</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Gloob">
+    <display-name lang="pt">Gloob</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Disney">
+    <display-name lang="pt">Disney</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Nickelodeon">
+    <display-name lang="pt">Nickelodeon</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Cartoon Network">
+    <display-name lang="pt">Cartoon Network</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Disney XD">
+    <display-name lang="pt">Disney XD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Disney Júnior">
+    <display-name lang="pt">Disney Júnior</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Nick Jr.">
+    <display-name lang="pt">Nick Jr.</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Boomerang">
+    <display-name lang="pt">Boomerang</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="TV Rá Tim Bum">
+    <display-name lang="pt">TV Rá Tim Bum</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="TOONCAST">
+    <display-name lang="pt">TOONCAST</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="BIS">
+    <display-name lang="pt">BIS</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="MTV ">
+    <display-name lang="pt">MTV </display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Play TV">
+    <display-name lang="pt">Play TV</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Music Box Brazil">
+    <display-name lang="pt">Music Box Brazil</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Universal Channel">
+    <display-name lang="pt">Universal Channel</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="FOX">
+    <display-name lang="pt">FOX</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Warner Channel">
+    <display-name lang="pt">Warner Channel</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Sony">
+    <display-name lang="pt">Sony</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="FX">
+    <display-name lang="pt">FX</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="AXN">
+    <display-name lang="pt">AXN</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="TBS">
+    <display-name lang="pt">TBS</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Comedy Central">
+    <display-name lang="pt">Comedy Central</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="A&amp;E">
+    <display-name lang="pt">A&amp;E</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="ID - Investigação Discovery">
+    <display-name lang="pt">ID - Investigação Discovery</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="SyFy">
+    <display-name lang="pt">SyFy</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="iSat">
+    <display-name lang="pt">iSat</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Canal Brasil">
+    <display-name lang="pt">Canal Brasil</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="TNT">
+    <display-name lang="pt">TNT</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Megapix">
+    <display-name lang="pt">Megapix</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Space">
+    <display-name lang="pt">Space</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Cinemax">
+    <display-name lang="pt">Cinemax</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Prime Box Brazil">
+    <display-name lang="pt">Prime Box Brazil</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Studio Universal">
+    <display-name lang="pt">Studio Universal</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Paramount">
+    <display-name lang="pt">Paramount</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="TCM">
+    <display-name lang="pt">TCM</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Telecine Premium">
+    <display-name lang="pt">Telecine Premium</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Telecine Action">
+    <display-name lang="pt">Telecine Action</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Telecine Touch">
+    <display-name lang="pt">Telecine Touch</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Telecine Fun">
+    <display-name lang="pt">Telecine Fun</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Telecine Pipoca">
+    <display-name lang="pt">Telecine Pipoca</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Telecine Cult">
+    <display-name lang="pt">Telecine Cult</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="HBO">
+    <display-name lang="pt">HBO</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="HBO 2">
+    <display-name lang="pt">HBO 2</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="HBO Plus">
+    <display-name lang="pt">HBO Plus</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="HBO Plus *e">
+    <display-name lang="pt">HBO Plus *e</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="HBO Family">
+    <display-name lang="pt">HBO Family</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="HBO Signature">
+    <display-name lang="pt">HBO Signature</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Max">
+    <display-name lang="pt">Max</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Max Prime">
+    <display-name lang="pt">Max Prime</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Max Prime *e">
+    <display-name lang="pt">Max Prime *e</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Terra Viva">
+    <display-name lang="pt">Terra Viva</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Canal Rural">
+    <display-name lang="pt">Canal Rural</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Boa Vontade TV">
+    <display-name lang="pt">Boa Vontade TV</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="CNN Internacional">
+    <display-name lang="pt">CNN Internacional</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="RAI">
+    <display-name lang="pt">RAI</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="TV5 Monde">
+    <display-name lang="pt">TV5 Monde</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Deutsche Welle">
+    <display-name lang="pt">Deutsche Welle</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="NHK PREMIUM">
+    <display-name lang="pt">NHK PREMIUM</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="SIC">
+    <display-name lang="pt">SIC</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="CNN ESPANÕL">
+    <display-name lang="pt">CNN ESPANÕL</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Premiere Clubes">
+    <display-name lang="pt">Premiere Clubes</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Combate">
+    <display-name lang="pt">Combate</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Playboy TV">
+    <display-name lang="pt">Playboy TV</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Sexy Hot">
+    <display-name lang="pt">Sexy Hot</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="OFF HD">
+    <display-name lang="pt">OFF HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Sportv 2 HD">
+    <display-name lang="pt">Sportv 2 HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Sportv HD">
+    <display-name lang="pt">Sportv HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="GNT HD">
+    <display-name lang="pt">GNT HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Multishow HD">
+    <display-name lang="pt">Multishow HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="GLOBOSAT HD">
+    <display-name lang="pt">GLOBOSAT HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="TLC HD">
+    <display-name lang="pt">TLC HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Discovery Home &amp; Health HD">
+    <display-name lang="pt">Discovery Home &amp; Health HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="ESPN HD">
+    <display-name lang="pt">ESPN HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Band Sports HD">
+    <display-name lang="pt">Band Sports HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Discovery Channel HD">
+    <display-name lang="pt">Discovery Channel HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="The History Channel HD">
+    <display-name lang="pt">The History Channel HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Discovery Turbo HD">
+    <display-name lang="pt">Discovery Turbo HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Nat Geo Wild HD">
+    <display-name lang="pt">Nat Geo Wild HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="DISCOVERY THEATER HD">
+    <display-name lang="pt">DISCOVERY THEATER HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Discovery Kids HD">
+    <display-name lang="pt">Discovery Kids HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Gloob HD">
+    <display-name lang="pt">Gloob HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Disney HD">
+    <display-name lang="pt">Disney HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="BIS HD">
+    <display-name lang="pt">BIS HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Universal Channel HD">
+    <display-name lang="pt">Universal Channel HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="FOX HD">
+    <display-name lang="pt">FOX HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Warner HD">
+    <display-name lang="pt">Warner HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Sony HD">
+    <display-name lang="pt">Sony HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="AXN HD">
+    <display-name lang="pt">AXN HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="TNT HD">
+    <display-name lang="pt">TNT HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Megapix HD">
+    <display-name lang="pt">Megapix HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Space HD">
+    <display-name lang="pt">Space HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Paramount HD">
+    <display-name lang="pt">Paramount HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Telecine Premium HD">
+    <display-name lang="pt">Telecine Premium HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Telecine Action HD">
+    <display-name lang="pt">Telecine Action HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Telecine Touch HD">
+    <display-name lang="pt">Telecine Touch HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Telecine Fun HD">
+    <display-name lang="pt">Telecine Fun HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Telecine Pipoca HD">
+    <display-name lang="pt">Telecine Pipoca HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="HBO2 HD">
+    <display-name lang="pt">HBO2 HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="HBO Plus HD">
+    <display-name lang="pt">HBO Plus HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="HBO Signature HD">
+    <display-name lang="pt">HBO Signature HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <programme start="20200722000000 +0100" stop="20200722235900 +0100" channel="Example">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.(n)</desc>
+  </programme>
+  <programme start="20200723000000 +0100" stop="20200723235900 +0100" channel="Example">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.(n)</desc>
+  </programme>
+  <programme start="20200724000000 +0100" stop="20200724235900 +0100" channel="Example">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.(n)</desc>
+  </programme>
+  <programme start="20200721000000 -0300" stop="20200721030000 -0300" channel="Canal 26">
+    <title lang="es">Trasnoche 26</title>
+  </programme>
+  <programme start="20200721030000 -0300" stop="20200721060000 -0300" channel="Canal 26">
+    <title lang="es">Trasnoche 26</title>
+  </programme>
+  <programme start="20200721060000 -0300" stop="20200721080000 -0300" channel="Canal 26">
+    <title lang="es">Noticias a las 6</title>
+  </programme>
+  <programme start="20200721080000 -0300" stop="20200721100000 -0300" channel="Canal 26">
+    <title lang="es">Noticias a las 8</title>
+  </programme>
+  <programme start="20200721100000 -0300" stop="20200721120000 -0300" channel="Canal 26">
+    <title lang="es">Noticias a las 10</title>
+  </programme>
+  <programme start="20200721120000 -0300" stop="20200721140000 -0300" channel="Canal 26">
+    <title lang="es">Noticias en Canal 26</title>
+  </programme>
+  <programme start="20200721140000 -0300" stop="20200721160000 -0300" channel="Canal 26">
+    <title lang="es">Mix 26</title>
+  </programme>
+  <programme start="20200721160000 -0300" stop="20200721180000 -0300" channel="Canal 26">
+    <title lang="es">Noticias de 16 a 18</title>
+  </programme>
+  <programme start="20200721180000 -0300" stop="20200721200000 -0300" channel="Canal 26">
+    <title lang="es">Noticias de 18 a 20</title>
+  </programme>
+  <programme start="20200721200000 -0300" stop="20200721220000 -0300" channel="Canal 26">
+    <title lang="es">Noticias de 20 a 22</title>
+  </programme>
+  <programme start="20200721220000 -0300" stop="20200721220000 -0300" channel="Canal 26">
+    <title lang="es">Noticias de 22 a 24</title>
+  </programme>
+  <programme start="20200721220000 -0300" stop="20200722000000 -0300" channel="Canal 26">
+    <title lang="es">Noticias de 22 a 24</title>
+  </programme>
+  <programme start="20200722000000 -0300" stop="20200722030000 -0300" channel="Canal 26">
+    <title lang="es">Trasnoche 26</title>
+  </programme>
+  <programme start="20200722030000 -0300" stop="20200722060000 -0300" channel="Canal 26">
+    <title lang="es">Trasnoche 26</title>
+  </programme>
+  <programme start="20200722060000 -0300" stop="20200722080000 -0300" channel="Canal 26">
+    <title lang="es">Noticias a las 6</title>
+  </programme>
+  <programme start="20200722080000 -0300" stop="20200722100000 -0300" channel="Canal 26">
+    <title lang="es">Noticias a las 8</title>
+  </programme>
+  <programme start="20200722100000 -0300" stop="20200722120000 -0300" channel="Canal 26">
+    <title lang="es">Noticias a las 10</title>
+  </programme>
+  <programme start="20200722120000 -0300" stop="20200722140000 -0300" channel="Canal 26">
+    <title lang="es">Noticias en Canal 26</title>
+  </programme>
+  <programme start="20200722140000 -0300" stop="20200722160000 -0300" channel="Canal 26">
+    <title lang="es">Mix 26</title>
+  </programme>
+  <programme start="20200722160000 -0300" stop="20200722180000 -0300" channel="Canal 26">
+    <title lang="es">Noticias de 16 a 18</title>
+  </programme>
+  <programme start="20200722180000 -0300" stop="20200722200000 -0300" channel="Canal 26">
+    <title lang="es">Noticias de 18 a 20</title>
+  </programme>
+  <programme start="20200722200000 -0300" stop="20200722220000 -0300" channel="Canal 26">
+    <title lang="es">Noticias de 20 a 22</title>
+  </programme>
+  <programme start="20200722220000 -0300" stop="20200722220000 -0300" channel="Canal 26">
+    <title lang="es">Noticias de 22 a 24</title>
+  </programme>
+  <programme start="20200722220000 -0300" stop="20200723000000 -0300" channel="Canal 26">
+    <title lang="es">Noticias de 22 a 24</title>
+  </programme>
+  <programme start="20200723000000 -0300" stop="20200723030000 -0300" channel="Canal 26">
+    <title lang="es">Trasnoche 26</title>
+  </programme>
+  <programme start="20200723030000 -0300" stop="20200723060000 -0300" channel="Canal 26">
+    <title lang="es">Trasnoche 26</title>
+  </programme>
+  <programme start="20200723060000 -0300" stop="20200723080000 -0300" channel="Canal 26">
+    <title lang="es">Noticias a las 6</title>
+  </programme>
+  <programme start="20200723080000 -0300" stop="20200723100000 -0300" channel="Canal 26">
+    <title lang="es">Noticias a las 8</title>
+  </programme>
+  <programme start="20200723100000 -0300" stop="20200723120000 -0300" channel="Canal 26">
+    <title lang="es">Noticias a las 10</title>
+  </programme>
+  <programme start="20200723120000 -0300" stop="20200723140000 -0300" channel="Canal 26">
+    <title lang="es">Noticias en Canal 26</title>
+  </programme>
+  <programme start="20200723140000 -0300" stop="20200723160000 -0300" channel="Canal 26">
+    <title lang="es">Mix 26</title>
+  </programme>
+  <programme start="20200723160000 -0300" stop="20200723180000 -0300" channel="Canal 26">
+    <title lang="es">Noticias de 16 a 18</title>
+  </programme>
+  <programme start="20200723180000 -0300" stop="20200723200000 -0300" channel="Canal 26">
+    <title lang="es">Noticias de 18 a 20</title>
+  </programme>
+  <programme start="20200723200000 -0300" stop="20200723220000 -0300" channel="Canal 26">
+    <title lang="es">Noticias de 20 a 22</title>
+  </programme>
+  <programme start="20200721080000 -0300" stop="20200721100000 -0300" channel="Argentinísima Satelital">
+    <title lang="es">País en vivo</title>
+  </programme>
+  <programme start="20200721100000 -0300" stop="20200721110000 -0300" channel="Argentinísima Satelital">
+    <title lang="es">País en vivo</title>
+  </programme>
+  <programme start="20200721110000 -0300" stop="20200721120000 -0300" channel="Argentinísima Satelital">
+    <title lang="es">Hora libre</title>
+  </programme>
+  <programme start="20200721120000 -0300" stop="20200721130000 -0300" channel="Argentinísima Satelital">
+    <title lang="es">Noticiero federal Telered</title>
+  </programme>
+  <programme start="20200721130000 -0300" stop="20200721160000 -0300" channel="Argentinísima Satelital">
+    <title lang="es">País en vivo</title>
+  </programme>
+  <programme start="20200721160000 -0300" stop="20200721170000 -0300" channel="Argentinísima Satelital">
+    <title lang="es">Noticiero Federal</title>
+  </programme>
+  <programme start="20200721170000 -0300" stop="20200721200000 -0300" channel="Argentinísima Satelital">
+    <title lang="es">Revista nacional</title>
+  </programme>
+  <programme start="20200721200000 -0300" stop="20200721210000 -0300" channel="Argentinísima Satelital">
+    <title lang="es">Señal Argentinísima Satelital</title>
+  </programme>
+  <programme start="20200721210000 -0300" stop="20200721220000 -0300" channel="Argentinísima Satelital">
+    <title lang="es">Noticiero Federal</title>
+  </programme>
+  <programme start="20200721220000 -0300" stop="20200721230000 -0300" channel="Argentinísima Satelital">
+    <title lang="es">Reflejos de tradición</title>
+  </programme>
+  <programme start="20200721230000 -0300" stop="20200721230000 -0300" channel="Argentinísima Satelital">
+    <title lang="es">Señal Argentinísima Satelital</title>
+  </programme>
+  <programme start="20200721230000 -0300" stop="20200722080000 -0300" channel="Argentinísima Satelital">
+    <title lang="es">Señal Argentinísima Satelital</title>
+  </programme>
+  <programme start="20200722080000 -0300" stop="20200722100000 -0300" channel="Argentinísima Satelital">
+    <title lang="es">País en vivo</title>
+  </programme>
+  <programme start="20200722100000 -0300" stop="20200722110000 -0300" channel="Argentinísima Satelital">
+    <title lang="es">País en vivo</title>
+  </programme>
+  <programme start="20200722110000 -0300" stop="20200722120000 -0300" channel="Argentinísima Satelital">
+    <title lang="es">Hora libre</title>
+  </programme>
+  <programme start="20200722120000 -0300" stop="20200722130000 -0300" channel="Argentinísima Satelital">
+    <title lang="es">Noticiero federal Telered</title>
+  </programme>
+  <programme start="20200722130000 -0300" stop="20200722160000 -0300" channel="Argentinísima Satelital">
+    <title lang="es">País en vivo</title>
+  </programme>
+  <programme start="20200722160000 -0300" stop="20200722170000 -0300" channel="Argentinísima Satelital">
+    <title lang="es">Noticiero Federal</title>
+  </programme>
+  <programme start="20200722170000 -0300" stop="20200722180000 -0300" channel="Argentinísima Satelital">
+    <title lang="es">Nora Briozzo presenta</title>
+  </programme>
+  <programme start="20200722180000 -0300" stop="20200722200000 -0300" channel="Argentinísima Satelital">
+    <title lang="es">Revista nacional</title>
+  </programme>
+  <programme start="20200722200000 -0300" stop="20200722203000 -0300" channel="Argentinísima Satelital">
+    <title lang="es">Forum jurídico fiscal</title>
+  </programme>
+  <programme start="20200722203000 -0300" stop="20200722210000 -0300" channel="Argentinísima Satelital">
+    <title lang="es">Señal Argentinísima Satelital</title>
+  </programme>
+  <programme start="20200722210000 -0300" stop="20200722220000 -0300" channel="Argentinísima Satelital">
+    <title lang="es">Noticiero Federal</title>
+  </programme>
+  <programme start="20200722220000 -0300" stop="20200722230000 -0300" channel="Argentinísima Satelital">
+    <title lang="es">Proyecto Federal</title>
+  </programme>
+  <programme start="20200722230000 -0300" stop="20200722230000 -0300" channel="Argentinísima Satelital">
+    <title lang="es">Economía ahora</title>
+  </programme>
+  <programme start="20200722230000 -0300" stop="20200723000000 -0300" channel="Argentinísima Satelital">
+    <title lang="es">Economía ahora</title>
+  </programme>
+  <programme start="20200723000000 -0300" stop="20200723080000 -0300" channel="Argentinísima Satelital">
+    <title lang="es">Señal Argentinísima Satelital</title>
+  </programme>
+  <programme start="20200723080000 -0300" stop="20200723100000 -0300" channel="Argentinísima Satelital">
+    <title lang="es">País en vivo</title>
+  </programme>
+  <programme start="20200723100000 -0300" stop="20200723110000 -0300" channel="Argentinísima Satelital">
+    <title lang="es">País en vivo</title>
+  </programme>
+  <programme start="20200723110000 -0300" stop="20200723120000 -0300" channel="Argentinísima Satelital">
+    <title lang="es">Hora libre</title>
+  </programme>
+  <programme start="20200723120000 -0300" stop="20200723130000 -0300" channel="Argentinísima Satelital">
+    <title lang="es">Noticiero federal Telered</title>
+  </programme>
+  <programme start="20200723130000 -0300" stop="20200723154500 -0300" channel="Argentinísima Satelital">
+    <title lang="es">País en vivo</title>
+  </programme>
+  <programme start="20200723154500 -0300" stop="20200723163000 -0300" channel="Argentinísima Satelital">
+    <title lang="es">Noticiero Federal</title>
+  </programme>
+  <programme start="20200723163000 -0300" stop="20200723170000 -0300" channel="Argentinísima Satelital">
+    <title lang="es">Pymes es posible</title>
+  </programme>
+  <programme start="20200723170000 -0300" stop="20200723193000 -0300" channel="Argentinísima Satelital">
+    <title lang="es">A puro mate y chamamé</title>
+  </programme>
+  <programme start="20200723193000 -0300" stop="20200723200000 -0300" channel="Argentinísima Satelital">
+    <title lang="es">Nuestra voz</title>
+  </programme>
+  <programme start="20200723200000 -0300" stop="20200723210000 -0300" channel="Argentinísima Satelital">
+    <title lang="es">El orejano</title>
+  </programme>
+  <programme start="20200723210000 -0300" stop="20200723220000 -0300" channel="Argentinísima Satelital">
+    <title lang="es">Noticiero Federal</title>
+  </programme>
+  <programme start="20200723220000 -0300" stop="20200723230000 -0300" channel="Argentinísima Satelital">
+    <title lang="es">La música de tu vida</title>
+  </programme>
+  <programme start="20200723230000 -0300" stop="20200723233000 -0300" channel="Argentinísima Satelital">
+    <title lang="es">El señalador de ideas</title>
+  </programme>
+  <programme start="20200721000000 -0300" stop="20200721003000 -0300" channel="TV PUBLICA HD">
+    <title lang="es">TPA Noticias</title>
+  </programme>
+  <programme start="20200721003000 -0300" stop="20200721013000 -0300" channel="TV PUBLICA HD">
+    <title lang="es">La persuasión. ¿Cuánto daño puede hacerte la popularidad?</title>
+  </programme>
+  <programme start="20200721013000 -0300" stop="20200721040000 -0300" channel="TV PUBLICA HD">
+    <title lang="es">Argentina vs. Venezuela, Fecha 16, Estadio Antonio Vespucio Liberti</title>
+  </programme>
+  <programme start="20200721040000 -0300" stop="20200721060000 -0300" channel="TV PUBLICA HD">
+    <title lang="es">Cocineros argentinos</title>
+  </programme>
+  <programme start="20200721060000 -0300" stop="20200721063000 -0300" channel="TV PUBLICA HD">
+    <title lang="es">Pampero TV</title>
+  </programme>
+  <programme start="20200721063000 -0300" stop="20200721083000 -0300" channel="TV PUBLICA HD">
+    <title lang="es">TPA Noticias</title>
+  </programme>
+  <programme start="20200721083000 -0300" stop="20200721090000 -0300" channel="TV PUBLICA HD">
+    <title lang="es">#Quedate en casa</title>
+  </programme>
+  <programme start="20200721090000 -0300" stop="20200721130000 -0300" channel="TV PUBLICA HD">
+    <title lang="es">Seguimos educando</title>
+  </programme>
+  <programme start="20200721130000 -0300" stop="20200721140000 -0300" channel="TV PUBLICA HD">
+    <title lang="es">TPA Noticias</title>
+  </programme>
+  <programme start="20200721140000 -0300" stop="20200721160000 -0300" channel="TV PUBLICA HD">
+    <title lang="es">Cocineros argentinos</title>
+  </programme>
+  <programme start="20200721160000 -0300" stop="20200721170000 -0300" channel="TV PUBLICA HD">
+    <title lang="es">Todos Estamos Conectados por la música</title>
+  </programme>
+  <programme start="20200721170000 -0300" stop="20200721180000 -0300" channel="TV PUBLICA HD">
+    <title lang="es">Todo tiene un porqué</title>
+  </programme>
+  <programme start="20200721180000 -0300" stop="20200721200000 -0300" channel="TV PUBLICA HD">
+    <title lang="es">Altavoz</title>
+  </programme>
+  <programme start="20200721200000 -0300" stop="20200721220000 -0300" channel="TV PUBLICA HD">
+    <title lang="es">TPA Noticias</title>
+  </programme>
+  <programme start="20200721220000 -0300" stop="20200721223000 -0300" channel="TV PUBLICA HD">
+    <title lang="es">En terapia</title>
+  </programme>
+  <programme start="20200721223000 -0300" stop="20200721233000 -0300" channel="TV PUBLICA HD">
+    <title lang="es">Doce casas. Historia de mujeres devotas</title>
+  </programme>
+  <programme start="20200721233000 -0300" stop="20200721233000 -0300" channel="TV PUBLICA HD">
+    <title lang="es">Publicados</title>
+  </programme>
+  <programme start="20200721233000 -0300" stop="20200722000000 -0300" channel="TV PUBLICA HD">
+    <title lang="es">Publicados</title>
+  </programme>
+  <programme start="20200722000000 -0300" stop="20200722003000 -0300" channel="TV PUBLICA HD">
+    <title lang="es">TPA Noticias</title>
+  </programme>
+  <programme start="20200722003000 -0300" stop="20200722013000 -0300" channel="TV PUBLICA HD">
+    <title lang="es">La persuasión. ¿Cuánto daño puede hacerte la popularidad?</title>
+  </programme>
+  <programme start="20200722013000 -0300" stop="20200722040000 -0300" channel="TV PUBLICA HD">
+    <title lang="es">Argentina vs. Perú, Fecha 17, Estadio Alberto J. Armando</title>
+  </programme>
+  <programme start="20200722040000 -0300" stop="20200722060000 -0300" channel="TV PUBLICA HD">
+    <title lang="es">Cocineros argentinos</title>
+  </programme>
+  <programme start="20200722060000 -0300" stop="20200722063000 -0300" channel="TV PUBLICA HD">
+    <title lang="es">Pampero TV</title>
+  </programme>
+  <programme start="20200722063000 -0300" stop="20200722083000 -0300" channel="TV PUBLICA HD">
+    <title lang="es">TPA Noticias</title>
+  </programme>
+  <programme start="20200722083000 -0300" stop="20200722090000 -0300" channel="TV PUBLICA HD">
+    <title lang="es">#Quedate en casa</title>
+  </programme>
+  <programme start="20200722090000 -0300" stop="20200722130000 -0300" channel="TV PUBLICA HD">
+    <title lang="es">Seguimos educando</title>
+  </programme>
+  <programme start="20200722130000 -0300" stop="20200722140000 -0300" channel="TV PUBLICA HD">
+    <title lang="es">TPA Noticias</title>
+  </programme>
+  <programme start="20200722140000 -0300" stop="20200722160000 -0300" channel="TV PUBLICA HD">
+    <title lang="es">Cocineros argentinos</title>
+  </programme>
+  <programme start="20200722160000 -0300" stop="20200722170000 -0300" channel="TV PUBLICA HD">
+    <title lang="es">Todos Estamos Conectados por la música</title>
+  </programme>
+  <programme start="20200722170000 -0300" stop="20200722180000 -0300" channel="TV PUBLICA HD">
+    <title lang="es">Todo tiene un porqué</title>
+  </programme>
+  <programme start="20200722180000 -0300" stop="20200722200000 -0300" channel="TV PUBLICA HD">
+    <title lang="es">Altavoz</title>
+  </programme>
+  <programme start="20200722200000 -0300" stop="20200722220000 -0300" channel="TV PUBLICA HD">
+    <title lang="es">TPA Noticias</title>
+  </programme>
+  <programme start="20200722220000 -0300" stop="20200722223000 -0300" channel="TV PUBLICA HD">
+    <title lang="es">En terapia</title>
+  </programme>
+  <programme start="20200722223000 -0300" stop="20200722233000 -0300" channel="TV PUBLICA HD">
+    <title lang="es">Doce casas. Historia de mujeres devotas</title>
+  </programme>
+  <programme start="20200722233000 -0300" stop="20200722233000 -0300" channel="TV PUBLICA HD">
+    <title lang="es">Publicados</title>
+  </programme>
+  <programme start="20200722233000 -0300" stop="20200723000000 -0300" channel="TV PUBLICA HD">
+    <title lang="es">Publicados</title>
+  </programme>
+  <programme start="20200723000000 -0300" stop="20200723003000 -0300" channel="TV PUBLICA HD">
+    <title lang="es">TPA Noticias</title>
+  </programme>
+  <programme start="20200723003000 -0300" stop="20200723013000 -0300" channel="TV PUBLICA HD">
+    <title lang="es">La persuasión. ¿Cuánto daño puede hacerte la popularidad?</title>
+  </programme>
+  <programme start="20200723013000 -0300" stop="20200723040000 -0300" channel="TV PUBLICA HD">
+    <title lang="es">Argentina vs. Ecuador, Fecha 1, Estadio Antonio V. Liberti</title>
+  </programme>
+  <programme start="20200723040000 -0300" stop="20200723060000 -0300" channel="TV PUBLICA HD">
+    <title lang="es">Cocineros argentinos</title>
+  </programme>
+  <programme start="20200723060000 -0300" stop="20200723063000 -0300" channel="TV PUBLICA HD">
+    <title lang="es">Pampero TV</title>
+  </programme>
+  <programme start="20200723063000 -0300" stop="20200723083000 -0300" channel="TV PUBLICA HD">
+    <title lang="es">TPA Noticias</title>
+  </programme>
+  <programme start="20200723083000 -0300" stop="20200723090000 -0300" channel="TV PUBLICA HD">
+    <title lang="es">#Quedate en casa</title>
+  </programme>
+  <programme start="20200723090000 -0300" stop="20200723130000 -0300" channel="TV PUBLICA HD">
+    <title lang="es">Seguimos educando</title>
+  </programme>
+  <programme start="20200723130000 -0300" stop="20200723140000 -0300" channel="TV PUBLICA HD">
+    <title lang="es">TPA Noticias</title>
+  </programme>
+  <programme start="20200723140000 -0300" stop="20200723160000 -0300" channel="TV PUBLICA HD">
+    <title lang="es">Cocineros argentinos</title>
+  </programme>
+  <programme start="20200723160000 -0300" stop="20200723170000 -0300" channel="TV PUBLICA HD">
+    <title lang="es">Todos Estamos Conectados por la música</title>
+  </programme>
+  <programme start="20200723170000 -0300" stop="20200723180000 -0300" channel="TV PUBLICA HD">
+    <title lang="es">Todo tiene un porqué</title>
+  </programme>
+  <programme start="20200723180000 -0300" stop="20200723200000 -0300" channel="TV PUBLICA HD">
+    <title lang="es">Altavoz</title>
+  </programme>
+  <programme start="20200723200000 -0300" stop="20200723220000 -0300" channel="TV PUBLICA HD">
+    <title lang="es">TPA Noticias</title>
+  </programme>
+  <programme start="20200723220000 -0300" stop="20200723223000 -0300" channel="TV PUBLICA HD">
+    <title lang="es">En terapia</title>
+  </programme>
+  <programme start="20200723223000 -0300" stop="20200723233000 -0300" channel="TV PUBLICA HD">
+    <title lang="es">Padres e hijos</title>
+  </programme>
+</tv>
