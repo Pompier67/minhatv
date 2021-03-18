@@ -1,0 +1,838 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="100% Vida">
+    <display-name lang="pt">100% Vida</display-name>
+    <icon src="../canais/comet.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="1001 Noites">
+    <display-name lang="pt">1001 Noites</display-name>
+    <icon src="../canais/suyapaeducativa.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Agro Canal">
+    <display-name lang="pt">Agro Canal</display-name>
+    <icon src="../canais/cultura.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="AgroBrasil TV">
+    <display-name lang="pt">AgroBrasil TV</display-name>
+    <icon src="../canais/1583703846.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="AmazonSat">
+    <display-name lang="pt">AmazonSat</display-name>
+    <icon src="../canais/transtv.gif|../canais/ngt.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Band">
+    <display-name lang="pt">Band</display-name>
+    <icon src="../canais/cfto-dt.gif|../canais/ctv.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Band Amazonas">
+    <display-name lang="pt">Band Amazonas</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Band Aracaju">
+    <display-name lang="pt">Band Aracaju</display-name>
+    <icon src="../canais/rpc.gif|../canais/globo.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Band Bahia">
+    <display-name lang="pt">Band Bahia</display-name>
+    <icon src="../canais/1593311615.gif|../canais/1574361045.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Band Brasília">
+    <display-name lang="pt">Band Brasília</display-name>
+    <icon src="../canais/1607604359.gif|../canais/iontv.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Band Campinas">
+    <display-name lang="pt">Band Campinas</display-name>
+    <icon src="../canais/1597927564.gif|../canais/1601463429.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Band Curitiba">
+    <display-name lang="pt">Band Curitiba</display-name>
+    <icon src="../canais/tvn-chi.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Band Maceió">
+    <display-name lang="pt">Band Maceió</display-name>
+    <icon src="../canais/1575230579.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Band Maranhão">
+    <display-name lang="pt">Band Maranhão</display-name>
+    <icon src="../canais/1605613893.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Band Minas">
+    <display-name lang="pt">Band Minas</display-name>
+    <icon src="../canais/mbcd.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Band Natal">
+    <display-name lang="pt">Band Natal</display-name>
+    <icon src="../canais/redebrasil-bahia.gif|../canais/1608548849.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Band Paulista">
+    <display-name lang="pt">Band Paulista</display-name>
+    <icon src="../canais/pakapaka.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Band Piauí">
+    <display-name lang="pt">Band Piauí</display-name>
+    <icon src="../canais/1597753176.gif|../canais/pbs.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Band Rio">
+    <display-name lang="pt">Band Rio</display-name>
+    <icon src="../canais/1575982483.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Band RS">
+    <display-name lang="pt">Band RS</display-name>
+    <icon src="../canais/1608641592.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Band SP">
+    <display-name lang="pt">Band SP</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Band Tocantins">
+    <display-name lang="pt">Band Tocantins</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Band Vale">
+    <display-name lang="pt">Band Vale</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Boa Vontade TV">
+    <display-name lang="pt">Boa Vontade TV</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Boas Novas">
+    <display-name lang="pt">Boas Novas</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="BYU TV">
+    <display-name lang="pt">BYU TV</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Canal Claro">
+    <display-name lang="pt">Canal Claro</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Canal de São Paulo">
+    <display-name lang="pt">Canal de São Paulo</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Canal do Boi">
+    <display-name lang="pt">Canal do Boi</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Canal Rural">
+    <display-name lang="pt">Canal Rural</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Canal Saúde">
+    <display-name lang="pt">Canal Saúde</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Canção Nova">
+    <display-name lang="pt">Canção Nova</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Canção Nova Paulista">
+    <display-name lang="pt">Canção Nova Paulista</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="CCTV">
+    <display-name lang="pt">CCTV</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="CineBrasil TV">
+    <display-name lang="pt">CineBrasil TV</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="CNT">
+    <display-name lang="pt">CNT</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="CNT Bahia">
+    <display-name lang="pt">CNT Bahia</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="CNT Curitiba">
+    <display-name lang="pt">CNT Curitiba</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="CNT RJ">
+    <display-name lang="pt">CNT RJ</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="CNT RS">
+    <display-name lang="pt">CNT RS</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="CNT Tropical">
+    <display-name lang="pt">CNT Tropical</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Conexão BR">
+    <display-name lang="pt">Conexão BR</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Cultura">
+    <display-name lang="pt">Cultura</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="DW-Deutsch+">
+    <display-name lang="pt">DW-Deutsch+</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Esporte Interativo BR">
+    <display-name lang="pt">Esporte Interativo BR</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="EWTN">
+    <display-name lang="pt">EWTN</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Fonte TV">
+    <display-name lang="pt">Fonte TV</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="France 24">
+    <display-name lang="pt">France 24</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Futura">
+    <display-name lang="pt">Futura</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Gazeta">
+    <display-name lang="pt">Gazeta</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Multicultura">
+    <display-name lang="pt">Multicultura</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="NGT">
+    <display-name lang="pt">NGT</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="NHK World Japan">
+    <display-name lang="pt">NHK World Japan</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Polishop TV">
+    <display-name lang="pt">Polishop TV</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Ponto Jus">
+    <display-name lang="pt">Ponto Jus</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Prime Box Brazil">
+    <display-name lang="pt">Prime Box Brazil</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="RBA TV">
+    <display-name lang="pt">RBA TV</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="RBI TV">
+    <display-name lang="pt">RBI TV</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="RCI">
+    <display-name lang="pt">RCI</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="RCI Minas">
+    <display-name lang="pt">RCI Minas</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="RCI Paraná">
+    <display-name lang="pt">RCI Paraná</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Record News">
+    <display-name lang="pt">Record News</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Record News ES">
+    <display-name lang="pt">Record News ES</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Record News SC">
+    <display-name lang="pt">Record News SC</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="RecordTV">
+    <display-name lang="pt">RecordTV</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="RecordTV Belém">
+    <display-name lang="pt">RecordTV Belém</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="RecordTV Brasília">
+    <display-name lang="pt">RecordTV Brasília</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="RecordTV Goias">
+    <display-name lang="pt">RecordTV Goias</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="RecordTV Interior SP">
+    <display-name lang="pt">RecordTV Interior SP</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="RecordTV Itapoan">
+    <display-name lang="pt">RecordTV Itapoan</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="RecordTV Litoral-Vale">
+    <display-name lang="pt">RecordTV Litoral-Vale</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="RecordTV Minas">
+    <display-name lang="pt">RecordTV Minas</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="RecordTV Paulista">
+    <display-name lang="pt">RecordTV Paulista</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="RecordTV Rio">
+    <display-name lang="pt">RecordTV Rio</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="RecordTV RS">
+    <display-name lang="pt">RecordTV RS</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Rede 21">
+    <display-name lang="pt">Rede 21</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Rede Brasil">
+    <display-name lang="pt">Rede Brasil</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Rede Brasil de Comunicação">
+    <display-name lang="pt">Rede Brasil de Comunicação</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Rede Clube">
+    <display-name lang="pt">Rede Clube</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Rede Cultura do Pará">
+    <display-name lang="pt">Rede Cultura do Pará</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Rede Família">
+    <display-name lang="pt">Rede Família</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Rede Gênesis">
+    <display-name lang="pt">Rede Gênesis</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Rede Gospel">
+    <display-name lang="pt">Rede Gospel</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Rede Meio Norte">
+    <display-name lang="pt">Rede Meio Norte</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Rede Minas">
+    <display-name lang="pt">Rede Minas</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Rede Mundial">
+    <display-name lang="pt">Rede Mundial</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Rede New">
+    <display-name lang="pt">Rede New</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Rede Século 21">
+    <display-name lang="pt">Rede Século 21</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Rede Super">
+    <display-name lang="pt">Rede Super</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="RedeTV! ES">
+    <display-name lang="pt">RedeTV! ES</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="RedeTV! Rio">
+    <display-name lang="pt">RedeTV! Rio</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="RedeTV! Rondônia">
+    <display-name lang="pt">RedeTV! Rondônia</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="RIT">
+    <display-name lang="pt">RIT</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Russia Today">
+    <display-name lang="pt">Russia Today</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="SBN - SonLife Broadcast Network">
+    <display-name lang="pt">SBN - SonLife Broadcast Network</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="SBT">
+    <display-name lang="pt">SBT</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="SBT Brasília">
+    <display-name lang="pt">SBT Brasília</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="SBT Central">
+    <display-name lang="pt">SBT Central</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="SBT Interior RJ">
+    <display-name lang="pt">SBT Interior RJ</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="SBT Interior SP">
+    <display-name lang="pt">SBT Interior SP</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="SBT MS">
+    <display-name lang="pt">SBT MS</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="SBT Pará">
+    <display-name lang="pt">SBT Pará</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="SBT Ribeirão">
+    <display-name lang="pt">SBT Ribeirão</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="SBT Rio">
+    <display-name lang="pt">SBT Rio</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="SBT Rondonópolis">
+    <display-name lang="pt">SBT Rondonópolis</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="SBT RS">
+    <display-name lang="pt">SBT RS</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="SBT Vale">
+    <display-name lang="pt">SBT Vale</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="SCC SBT">
+    <display-name lang="pt">SCC SBT</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="SescTV">
+    <display-name lang="pt">SescTV</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Shoptime">
+    <display-name lang="pt">Shoptime</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="SIC Internacional">
+    <display-name lang="pt">SIC Internacional</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="SIC TV">
+    <display-name lang="pt">SIC TV</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Telefe Internacional">
+    <display-name lang="pt">Telefe Internacional</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Telesur">
+    <display-name lang="pt">Telesur</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Terra Viva">
+    <display-name lang="pt">Terra Viva</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Travel Box Brazil">
+    <display-name lang="pt">Travel Box Brazil</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TopTV">
+    <display-name lang="pt">TopTV</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TV A Crítica">
+    <display-name lang="pt">TV A Crítica</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TV AL MG">
+    <display-name lang="pt">TV AL MG</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TV AL SC">
+    <display-name lang="pt">TV AL SC</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TV Aldeia">
+    <display-name lang="pt">TV Aldeia</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TV ALES">
+    <display-name lang="pt">TV ALES</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TV ALESP">
+    <display-name lang="pt">TV ALESP</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TV Alterosa">
+    <display-name lang="pt">TV Alterosa</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TV Antares">
+    <display-name lang="pt">TV Antares</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TV Antena 10">
+    <display-name lang="pt">TV Antena 10</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TV Aparecida">
+    <display-name lang="pt">TV Aparecida</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TV Aperipê">
+    <display-name lang="pt">TV Aperipê</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TV Arapuan">
+    <display-name lang="pt">TV Arapuan</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TV Aratu">
+    <display-name lang="pt">TV Aratu</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TV Asa Branca">
+    <display-name lang="pt">TV Asa Branca</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TV Assembleia CE">
+    <display-name lang="pt">TV Assembleia CE</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TV Assembleia MT">
+    <display-name lang="pt">TV Assembleia MT</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TV Assembléia PB">
+    <display-name lang="pt">TV Assembléia PB</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TV Assembleia PI">
+    <display-name lang="pt">TV Assembleia PI</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TV Assembléia PR">
+    <display-name lang="pt">TV Assembléia PR</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TV Atalaia">
+    <display-name lang="pt">TV Atalaia</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TV Brasil">
+    <display-name lang="pt">TV Brasil</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TV Brasil 2">
+    <display-name lang="pt">TV Brasil 2</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TV Câmara">
+    <display-name lang="pt">TV Câmara</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TV Câmara Aracaju">
+    <display-name lang="pt">TV Câmara Aracaju</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TV Câmara Caxias">
+    <display-name lang="pt">TV Câmara Caxias</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TV Câmara Florianópolis">
+    <display-name lang="pt">TV Câmara Florianópolis</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TV Câmara Guarulhos">
+    <display-name lang="pt">TV Câmara Guarulhos</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TV Câmara Jahu">
+    <display-name lang="pt">TV Câmara Jahu</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TV Câmara João Pessoa">
+    <display-name lang="pt">TV Câmara João Pessoa</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TV Câmara Marília">
+    <display-name lang="pt">TV Câmara Marília</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TV Câmara Osasco">
+    <display-name lang="pt">TV Câmara Osasco</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TV Câmara Piracicaba">
+    <display-name lang="pt">TV Câmara Piracicaba</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TV Câmara Salvador">
+    <display-name lang="pt">TV Câmara Salvador</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TV Câmara São José dos Campos">
+    <display-name lang="pt">TV Câmara São José dos Campos</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TV Câmara São Paulo">
+    <display-name lang="pt">TV Câmara São Paulo</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TV Câmara Sorocaba">
+    <display-name lang="pt">TV Câmara Sorocaba</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TV Campos de Minas">
+    <display-name lang="pt">TV Campos de Minas</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TV Canal 4 Marília">
+    <display-name lang="pt">TV Canal 4 Marília</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TV Capixaba">
+    <display-name lang="pt">TV Capixaba</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TV Ceará">
+    <display-name lang="pt">TV Ceará</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TV Cidade - CE">
+    <display-name lang="pt">TV Cidade - CE</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TV Cidade Verde MT">
+    <display-name lang="pt">TV Cidade Verde MT</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TV Clube PE">
+    <display-name lang="pt">TV Clube PE</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TV Correio">
+    <display-name lang="pt">TV Correio</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TV Escola">
+    <display-name lang="pt">TV Escola</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TV Evangelizar">
+    <display-name lang="pt">TV Evangelizar</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TV Gazeta AC">
+    <display-name lang="pt">TV Gazeta AC</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TV Horizonte">
+    <display-name lang="pt">TV Horizonte</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TV Iguaçu - Rede Massa">
+    <display-name lang="pt">TV Iguaçu - Rede Massa</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TV Imaculada Conceição">
+    <display-name lang="pt">TV Imaculada Conceição</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TV Jangadeiro">
+    <display-name lang="pt">TV Jangadeiro</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TV Jockey">
+    <display-name lang="pt">TV Jockey</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TV Justiça">
+    <display-name lang="pt">TV Justiça</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TV Leste">
+    <display-name lang="pt">TV Leste</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TV Mundo Maior">
+    <display-name lang="pt">TV Mundo Maior</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TV Nazaré">
+    <display-name lang="pt">TV Nazaré</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TV Novo Tempo">
+    <display-name lang="pt">TV Novo Tempo</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TV Pajuçara">
+    <display-name lang="pt">TV Pajuçara</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TV Pampa Porto Alegre">
+    <display-name lang="pt">TV Pampa Porto Alegre</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TV Pampa Sul">
+    <display-name lang="pt">TV Pampa Sul</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TV Paraná Educativa">
+    <display-name lang="pt">TV Paraná Educativa</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TV Paranaíba">
+    <display-name lang="pt">TV Paranaíba</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TV Ponta Negra News">
+    <display-name lang="pt">TV Ponta Negra News</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TV Ponta Verde">
+    <display-name lang="pt">TV Ponta Verde</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TV Pública Argentina">
+    <display-name lang="pt">TV Pública Argentina</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TV Rá-Tim-Bum">
+    <display-name lang="pt">TV Rá-Tim-Bum</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TV Senado">
+    <display-name lang="pt">TV Senado</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TV Serra Dourada">
+    <display-name lang="pt">TV Serra Dourada</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TV Tambaú">
+    <display-name lang="pt">TV Tambaú</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TV Tarobá Cascavel">
+    <display-name lang="pt">TV Tarobá Cascavel</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TV Tarobá Londrina">
+    <display-name lang="pt">TV Tarobá Londrina</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TV Thathi">
+    <display-name lang="pt">TV Thathi</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TV Tibagi - Rede Massa">
+    <display-name lang="pt">TV Tibagi - Rede Massa</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TV Tribuna PE">
+    <display-name lang="pt">TV Tribuna PE</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TV Tropical">
+    <display-name lang="pt">TV Tropical</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TV Urbana">
+    <display-name lang="pt">TV Urbana</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TV Verdes Mares">
+    <display-name lang="pt">TV Verdes Mares</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TVB  Campinas">
+    <display-name lang="pt">TVB  Campinas</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TVB Santos">
+    <display-name lang="pt">TVB Santos</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TVBV">
+    <display-name lang="pt">TVBV</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TVE Internacional">
+    <display-name lang="pt">TVE Internacional</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TVE-AL">
+    <display-name lang="pt">TVE-AL</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TVE-Bahia">
+    <display-name lang="pt">TVE-Bahia</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TVE-RS">
+    <display-name lang="pt">TVE-RS</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TVMS">
+    <display-name lang="pt">TVMS</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TVT">
+    <display-name lang="pt">TVT</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Univesp TV">
+    <display-name lang="pt">Univesp TV</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+</tv>
